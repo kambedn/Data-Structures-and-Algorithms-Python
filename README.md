@@ -14,4 +14,5 @@ This repository contains Jupyter Notebook files (.ipynb) covering various data s
 10. Trees.ipynb: Detailed discussion on tree data structure, traversal techniques, and binary search trees.
 
 ## Additional Information:
-The slides used in these notebooks are adapted from a Udemy course Data Structures and Algorithms: In-Depth using Python by Syed Mohiuddin.
+The slides used in these notebooks are adapted from a Udemy course Data Structures and Algorithms: In-Depth using Python by Syed Mohiuddin:
+https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch
